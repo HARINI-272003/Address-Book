@@ -1,0 +1,13 @@
+#12
+Aditi,9876543222,aditi45@mail.com,1,0
+Arjun,9876543219,arjun88@mail.com,0,0
+Charan,9108197118,cherry@gmail.com,1,1
+Divya,9876543223,divya11@mail.com,0,1
+Harini,8088015905,hari@gmail.com,1,1
+John,9876543210,john01@mail.com,1,0
+Karan,9876543216,karan04@mail.com,1,1
+Neha,9876543233,neha23@mail.com,0,1
+Priya,9876543217,priya15@mail.com,0,0
+Rahul,9876543212,rahul07@mail.com,1,0
+Ravi,9876543220,ravi01@mail.com,1,1
+Rohit,9876543227,rohit33@mail.com,0,0
